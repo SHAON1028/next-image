@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .bg-image{
-  background: url(/right_arrow.svg);
+  background: url(/assets/right_arrow.svg);
   background-position: center;
   /* background-size: 600px 600px; */
   height: 400px;
