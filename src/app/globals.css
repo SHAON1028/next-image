@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.bg-image{
+  background: url(/tiger.jpg);
+  background-position: center;
+  /* background-size: 600px 600px; */
+  height: 400px;
+  background-repeat: no-repeat;
+}
